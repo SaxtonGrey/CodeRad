@@ -29,6 +29,10 @@ a {
     color: var(--font-color-dark);
 }
 
+.navbar.sticky .navbar-nav li a {
+    color: var(--font-color-dark);
+}
+
 .navbar-toggler {
     position: absolute;
     right: var(--size-40);
