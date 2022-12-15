@@ -1,0 +1,14 @@
+Color Theme 
+
+- white 
+- font dark
+- font base
+- font light
+- font link
+- contrast 
+- footer 
+- footer base
+- success
+- danger
+- primary
+- primary-tint
